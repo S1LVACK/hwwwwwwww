@@ -1,0 +1,70 @@
+.mainbox {
+  width: 100%;
+  background-color: #f1f1f1;
+}
+.mainbox .second {
+  width: 90%;
+  display: flex;
+  background-color: #f1f1f1;
+  margin: auto;
+}
+.mainbox .second .left {
+  margin-top: 16px;
+  width: 33%;
+  background-color: white;
+  box-shadow: 0px 3px 10px rgb(133, 133, 133);
+}
+.mainbox .second .left p {
+  color: #757575;
+}
+.mainbox .second .left .imgs {
+  position: relative;
+  width: 100%;
+}
+.mainbox .second .left .imgs #jd {
+  left: 14px;
+  font-size: 30px;
+  top: 250px;
+  position: absolute;
+}
+.mainbox .second .left .pro {
+  width: 100%;
+}
+.mainbox .second .left #txt {
+  padding: 10px;
+  font-size: 16px;
+}
+.mainbox .second .left hr {
+  width: 94%;
+  margin: auto;
+  opacity: 0.8;
+}
+.mainbox .second .left .diagram {
+  width: 100%;
+}
+.mainbox .second .left .diagram #men {
+  font-weight: bold;
+  padding: 10px;
+  font-size: 20px;
+}
+.mainbox .second .left .dia {
+  border-radius: 16px;
+  margin: auto;
+  width: 94%;
+  background-color: rgb(171, 171, 171);
+}
+.mainbox .second .right {
+  margin-top: 16px;
+  margin-left: 18px;
+  width: 66%;
+  height: 100px;
+  background-color: white;
+  box-shadow: 0px 3px 10px rgb(133, 133, 133);
+}
+.mainbox .second .right #textt {
+  padding-left: 10px;
+  color: #757575;
+  font-size: 30px;
+  margin-top: 13px;
+  margin-left: 5px;
+}/*# sourceMappingURL=main.css.map */
